@@ -1,0 +1,12 @@
+ {
+   "williamboman/mason.nvim",
+   opts = {
+      ensure_installed = {
+        "lua-language-server",
+        "html-lsp",
+        "prettier",
+        "java-language-server",
+        "stylua"
+      },
+    },
+  }
